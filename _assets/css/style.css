@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
-    margin: 0;
     padding: 0;
+    margin: 0;
     border-style: 0;
 }
 
@@ -53,6 +53,8 @@ header {
     font-weight: 500;
 }
 
+/* Container image */
+
 .container_image{
     margin-top: 20px;
 }
@@ -61,4 +63,20 @@ header {
     color: grey;
     font-size: 15px;
     font-weight: 500;
+}
+
+/* Container description */
+
+.container_description{
+    margin-top: 20px;
+}
+
+/* Container ul */
+
+.container_ul{
+    margin-top: 20px;
+}
+
+.container_ul li{
+    margin-left: 1em;
 }
