@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border-style: 0;
+}
+
+header {
+    background-color: rgb(72, 163, 255);
+    background-image: url('../imgs/pattern.png');
+    background-repeat: repeat;
+    background-size: 20%;
+    height: 80px;
+    padding: 0 20px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.logoSite{
+    width: 150px;
+}
