@@ -18,6 +18,7 @@ header {
     background-image: url('../imgs/pattern.png');
     background-repeat: repeat;
     background-size: 20%;
+    width: 100%;
     height: 80px;
     padding: 0 20px;
     display: flex;
@@ -133,6 +134,7 @@ th {
 
 footer{
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 footer h3{
