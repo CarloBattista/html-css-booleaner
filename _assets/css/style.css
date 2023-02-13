@@ -5,6 +5,12 @@
     border-collapse: collapse;
 }
 
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
 /* Header */
 
 header {
@@ -121,4 +127,29 @@ tbody td{
 th {
     text-align: left;
     padding-right: 150px;
+}
+
+/* Footer */
+
+footer{
+    margin-top: 50px;
+}
+
+footer h3{
+    color: grey;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.box_img{
+    background-repeat: no-repeat;
+    height: 200px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.container_img h2{
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
 }
