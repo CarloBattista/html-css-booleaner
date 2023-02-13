@@ -5,6 +5,8 @@
     border-style: 0;
 }
 
+/* Header */
+
 header {
     background-color: rgb(72, 163, 255);
     background-image: url('../imgs/pattern.png');
@@ -18,4 +20,45 @@ header {
 
 .logoSite{
     width: 150px;
+}
+
+/* Container main */
+
+.container_main{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.primary_title{
+    color: black;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.written_by{
+    color: grey;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.written_by span{
+    color: rgb(72, 163, 255);
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.date{
+    color: grey;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.container_image{
+    margin-top: 20px;
+}
+
+.container_photo p {
+    color: grey;
+    font-size: 15px;
+    font-weight: 500;
 }
